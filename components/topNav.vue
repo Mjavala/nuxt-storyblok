@@ -12,9 +12,6 @@
       <nuxt-link id="film-top-nav" to="/" class="nav-item">
         Film
       </nuxt-link>
-      <nuxt-link to="/photos" class="nav-item">
-        Photo
-      </nuxt-link>
       <div id="about-top-nav" class="nav-item">
         About
       </div>

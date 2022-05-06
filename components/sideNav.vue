@@ -6,7 +6,7 @@
           Film
         </nuxt-link>
       </div>
-      <nuxt-link to="/photos" class="side-nav-item-wrap" @click.native="blackNavStyling">
+      <nuxt-link to="/" class="side-nav-item-wrap" @click.native="blackNavStyling">
         <div class="side-nav-item">
           Photo
         </div>
